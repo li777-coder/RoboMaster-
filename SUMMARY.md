@@ -1,8 +1,9 @@
-# Summary
+# Table of contents
 
 * [苍穹战队秋招电控培训](README.md)
 
 ## 0.电控导论及第零课
+
 * [0.1电控导论](0.-dian-kong-dao-lun-ji-di-ling-ke/0.1-dian-kong-dao-lun.md)
 * [0.2电控资料和相关链接](0.-dian-kong-dao-lun-ji-di-ling-ke/0.2-dian-kong-zi-liao-he-xiang-guan-lian-jie.md)
 
@@ -10,7 +11,7 @@
 
 * [1.1 嵌入式物料购买及环境详细配置（Keil5）](1.-qian-ru-shi-dao-lun-he-chu-shi-gpio/1.1-qian-ru-shi-wu-liao-gou-mai-ji-huan-jing-xiang-xi-pei-zhi-keil5.md)
 * [1.2 初识单片机](1.-qian-ru-shi-dao-lun-he-chu-shi-gpio/1.2-chu-shi-dan-pian-ji.md)
-* [1.3 使用GPIO点亮板载LED](1.-qian-ru-shi-dao-lun-he-chu-shi-gpio\1.3- 使用GPIO点亮板载LED.md)
+* [\[1.3 使用GPIO点亮板载LED\](1.-qian-ru-shi-dao-lun-he-chu-shi-gpio\1.3- 使用GPIO点亮板载LED.md)](1.-qian-ru-shi-dao-lun-he-chu-shi-gpio/1.3-shi-yong-gpio-dian-liang-ban-zai-led1.qianrushidaolunhechushigpio1.3-shi-yong-gpio-dian-liang-ba.md)
 
 ## 生动的形象比喻（AI生成）
 
