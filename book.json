@@ -8,7 +8,6 @@
     "root": ".",
 	"plugins": [
 		"-lunr","-search",
-		"code",
 		"url-embed",
 		"-sharing",
 		"-default-theme",
